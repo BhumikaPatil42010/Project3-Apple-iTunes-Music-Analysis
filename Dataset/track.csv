@@ -1,0 +1,4 @@
+TrackId,Name,AlbumId,MediaTypeId,GenreId,Composer,Milliseconds,Bytes,UnitPrice
+1,Track A,1,1,1,Composer1,200000,11170334,0.99
+2,Track B,2,1,2,Composer2,210000,11300000,0.99
+3,Track C,3,1,3,Composer3,220000,11500000,0.99
