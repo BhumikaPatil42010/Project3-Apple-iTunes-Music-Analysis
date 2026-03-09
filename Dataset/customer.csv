@@ -1,0 +1,3 @@
+CustomerId,FirstName,LastName,Company,Address,City,State,Country,PostalCode,Phone,Fax,Email,SupportRepId
+1,Luís,Gonçalves,Embraer,Av. Brigadeiro Faria Lima,São Paulo,SP,Brazil,05423-000,+55 11 9999-9999,,luis@email.com,2
+2,Leonie,Köhler,,Theodor-Heuss-Straße,Stuttgart,,Germany,70174,+49 0711 123456,,leonie@email.com,2

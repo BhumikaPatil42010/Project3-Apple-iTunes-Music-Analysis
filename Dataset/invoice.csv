@@ -1,0 +1,3 @@
+InvoiceId,CustomerId,InvoiceDate,BillingAddress,BillingCity,BillingState,BillingCountry,BillingPostalCode,Total
+1,1,2023-01-01 00:00:00,Av. Brigadeiro Faria Lima,São Paulo,SP,Brazil,05423-000,8.91
+2,2,2023-01-02 00:00:00,Theodor-Heuss-Straße,Stuttgart,,Germany,70174,5.94
