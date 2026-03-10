@@ -44,8 +44,6 @@ Screenshot preview of the dashboard.
 SQL (MySQL)  
 Microsoft Power BI Desktop
 
----
 
-## Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+
